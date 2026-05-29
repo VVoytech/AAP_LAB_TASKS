@@ -5,6 +5,7 @@ venv/
 __pycache__/
 *.py[cod]
 *$py.class
+*.parquet
 .pytest_cache/
 
 # Pliki Jupyter Notebook
